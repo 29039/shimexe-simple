@@ -1,7 +1,6 @@
 <p align="center">
     <h1 align="center">shimexe-simple</h1>
 </p>
-- - -
 
 What is a shim?
 
