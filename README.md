@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">shimexe-simple</h1>
+    <h1 align="center">shimexe-simple-instructions</h1>
 </p>
 
 What is a shim?
@@ -12,7 +12,7 @@ Or make a lnk Shortcut to an shim exe file which can be pinned to the Windows 10
 
 ## How to use
 
-Download [supporting/shimexe/bin/shim.exe](https://github.com/29039/shimexe-simple/blob/master/supporting/shimexe/bin/shim.exe)
+Download [github.com/ScoopInstaller/Scoop/supporting/shimexe/bin/shim.exe](https://github.com/ScoopInstaller/Scoop/blob/master/supporting/shimexe/bin/shim.exe)
 
 Rename **shim.exe** to the desired filename, i.e. *example.exe*
 
@@ -44,5 +44,5 @@ args = example.ps1
 
 All the work done by [Luke Sampson's Scoop Project](https://github.com/lukesampson/scoop)
 
-I just cleaned up the repo and give basic instructions on using shim.exe as a standalone app.
+I just made the basic instructions on using shim.exe as a standalone app.
 
