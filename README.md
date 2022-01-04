@@ -40,6 +40,8 @@ path = powershell -ExecutionPolicy Bypass -File
 args = example.ps1
 ```
 
+Tip: If shim.exe does not give enough functionality, i.e. custom Current Directory, set Environment Variables, etc. then you can shim to a .bat file with that functionality, and then use that to launch the real file.
+
 ## Credits
 
 All the work done by [Luke Sampson's Scoop Project](https://github.com/lukesampson/scoop)
