@@ -43,7 +43,9 @@ args = example.ps1
 Tip: If shim.exe does not give enough functionality, i.e. custom Current Directory (Working Folder), set Environment Variables, etc. then you can shim to a .bat file with that functionality (or use NircmD), and then use that to launch the real file.
 
 Useful NirCmd commands to chain with:
+
 http://nircmd.nirsoft.net/exec2.html - Ability to control the Working Folder, and run hidden or minimised
+
 http://nircmd.nirsoft.net/execmd.html - Ability to run .bat file as hidden
 
 ## Credits
